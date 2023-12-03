@@ -9,4 +9,18 @@ h1{
 }
 p{
     text-align: center;
+    font-size: 25px;
+}
+figure{
+    display: block;
+    width: 50%; 
+    margin: auto;
+}
+figcaption{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: rgb(156, 158, 160);
+}
+figure img{
+    border-radius: 1%;
 }
