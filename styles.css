@@ -2,6 +2,13 @@ body{
     background-color: #1e2233;
     color: aliceblue;
 }
+
+main{
+    background-color:rgba(0, 0, 0, 0.5);
+    margin: 5px 80px;
+    border-radius: 1%;
+}
+
 h1{
     color: rgb(143, 169, 191);
     font-size: 50px;
