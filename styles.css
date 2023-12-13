@@ -15,6 +15,7 @@ h1{
     color: rgb(143, 169, 191);
     font-size: 50px;
     text-align: center;
+    
 }
 p{
     text-align: center;
@@ -27,11 +28,23 @@ img{
     margin: 0 auto;
     border-radius: 1%;
 }
-#img-div{}
 
-figcaption{
+#img-caption{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
     color: rgb(156, 158, 160);
     text-align: center;
+}
+h2{
+    text-align: center;
+    margin: 50px 0;
+}
+ul {
+    max-width: 620px;
+    margin: 0 auto 10px auto;
+    line-height: 1.8;
+    text-align: left;
+}
+li{
+    margin: 16px 0 ;
 }
